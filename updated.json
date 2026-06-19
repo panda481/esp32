@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Config": "FAN",
-      "Version": "9.0.0",
+      "Version": "10.0.0",
       "URL": "https://raw.githubusercontent.com/panda481/esp32/tree/main/app.ino.bin"
     }
   ]
