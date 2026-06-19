@@ -1,0 +1,9 @@
+{
+  "Configurations": [
+    {
+      "Board": "ESP32_DEV",
+      "Version": "2.0.0",
+      "URL": "https://raw.githubusercontent.com/panda481/esp32/main/Basic-OTA-Example.ino.bin"
+    }
+  ]
+}
